@@ -1,41 +1,11 @@
-# TEMPLATE OSS REPOSITORY
+Hey. If you've found this page, welcome to my small corner of github. My name is Kirk and I like writing code, especially functional code. My code journey so far can be described as:
+- a lot of spreadsheet automation with VBA
+- a quite worrisome python obsession
+- living that .NET life and falling in love with F# and SQL 
+- front end work with Elmlang 
 
+Ideally, this will be the landing page for all my software related projects, and probably a better write up of who I am and what I'm working on.
 
-## Description
+Coming soon, a static site built with Elm static pages.
 
-This repo serves as an example for anyone wondering about the basic requirements necessary to set up an open source repository. The Issues, pull requests, supporting docs and [templates](https://github.com/tkshill/Template/tree/main/.github) are all meant to guides/resources for those wishing to create healthy spaces for contributions.
-
-To see a more detailed breakdown of the open source process check out [this wiki](https://github.com/tkshill/Template/wiki/A-Starter-Guide-to-Open-Source-Project-Maintenance) of the template project detailing tools and tips for OSS maintenance and contributions.
-
-Topics covered in the Wiki:
-- Setting up the "community" docs defined by Github insights
-- The value of Issue and Pull Request Templates
-- How to communicate well with contributors
-- Avoiding burnout as a maintainer
-- Links to long form content on OSS development
-
-## Roadmap
-
-The goal is to craft as many useful and relevant features as we can, in a transparent way so that anyone who stumbles upon this repo can see not just result, but process.
-
-## Contributing
-
-Any and all folks are welcome to contribute. Please check out our [contribution](https://github.com/tkshill/Template/blob/main/CONTRIBUTING.md) file for a full breakdown!
-
-Also please take a look at the [Code of Conduct](https://github.com/tkshill/Template/blob/main/CODE_OF_CONDUCT.md) which explains how we try to make this an inclusive space for all.
-
-## Authors and acknowledgment
-
-Thank you to everyone who has helped or supported this project, especially the [Virtual Coffee](https://virtualcoffee.io) community.
-
-## License
-
-This repo currently uses the [GPL-3.0 licencse](https://github.com/tkshill/Template/blob/main/LICENSE)
-
-## Project status
-
-Project is still being regularly updated, although since its main intended purpose is to be used as a template, large structural changes are not expected.
-
-## Contributors
-
-[Take a look at the people who make this possible!](https://github.com/tkshill/Template/blob/main/humans.md)
+Take care.
