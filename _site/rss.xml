@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Author&apos;s fancy blog</title>
+        <link>https://example.com/posts</link>
+        <description>Author&apos;s blog posts</description>
+        <lastBuildDate>Mon, 05 Oct 2020 22:09:12 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Elmstatic</generator>
+        <language>en</language>
+        <image>
+            <title>Author&apos;s fancy blog</title>
+            <url>https://example.com/img/logo.png</url>
+            <link>https://example.com/posts</link>
+        </image>
+        <copyright>Copyright: Author</copyright>
+        <item>
+            <title><![CDATA[Elmstatic now supports elm-markup]]></title>
+            <link>https://example.com/posts/2019-07-29-elmstatic-supports-elm-markup</link>
+            <guid>https://example.com/posts/2019-07-29-elmstatic-supports-elm-markup</guid>
+            <pubDate>Mon, 29 Jul 2019 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
