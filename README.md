@@ -15,6 +15,19 @@ I'm a full stack journeyman developer from the Caribbean who got his start with 
 
 ## Contact
 
-You can reach me at tkshillinz@icloud or on twitter at [@KirkCodes](https://twitter.com/KirkCodes). I also frequent the Elm and F# slacks where you can find me as @Kirk Shillingford.
+<!-- Actual text -->
+
+Feel free to reach out to tkshillinz@icloud.com. I also frequent the Elm and F# slacks where you can find me as @Kirk Shillingford.
+
+You can also find me on [![Twitter][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/KirkCodes
+
 
 Be well.
