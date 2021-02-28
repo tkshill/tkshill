@@ -1,6 +1,4 @@
-<img src="https://github.com/tkshill/tkshill/blob/main/wiki_resources/banner.png" alt="banner that has a mock Elm file with my name and details as the data">
-
-![](/wiki_resources/hehim.png)![](/wiki_resources/fsharp.png)![](/wiki_resources/excercism.png)![](/wiki_resources/visualstudio_code.png)
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="Elm" src="https://img.shields.io/badge/elm%20-%23239120.svg?&style=for-the-badge&logo=elm&logoColor=white"><img alt="mysql" src="https://img.shields.io/badge/mysql%20-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white"><img alt="fsharp" src="https://img.shields.io/badge/f%23%20-%23F05033.svg?&style=for-the-badge&logo=f-sharp&logoColor=white">
 
 ## Hey, I'm Kirk, :wave:
 
