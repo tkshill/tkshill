@@ -32,6 +32,7 @@ You can also find me on [![Twitter Badge](https://img.shields.io/badge/Twitter-P
 
 
 Be well.
+
 <a href="https://github.com/tkshill">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkshill&hide=html,css&title_color=ffffff&text_color=C2539B&icon_color=C2539B&bg_color=292828" alt="Kirk's GitHub Language focus" />
 </a>
