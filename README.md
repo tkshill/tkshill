@@ -23,13 +23,17 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=roman-numerals-react)](https://github.com/dominicduffin1/virtualcoffee.io)
 
 ### Latest Blog Posts
-- [A starter guide to open source maintenance](https://gist.github.com/tkshill/598908f1bfc850df9f96c16ab30a5643)
-- [Solving Problems Using Elm Parser](https://gist.github.com/tkshill/5adf16078ee255d25d92f13adf770ac0)
-- [Mimicking Delayed Generators in Elm](https://gist.github.com/tkshill/5edf3eb96a1dd80b47849399c7945499)
+
+[A starter guide to open source maintenance](https://gist.github.com/tkshill/598908f1bfc850df9f96c16ab30a5643)
+
+[Solving Problems Using Elm Parser](https://gist.github.com/tkshill/5adf16078ee255d25d92f13adf770ac0)
+
+[Mimicking Delayed Generators in Elm](https://gist.github.com/tkshill/5edf3eb96a1dd80b47849399c7945499)
 
 
 ### Virtual Coffee
-- Last but not least, I'm grateful to be a [Community Manager](https://virtualcoffee.io/members/) at [Virtual Coffee](https://virtualcoffee.io/members/). It's a wonderful space where devs all over the world come together to support each other, give talks, share successes, and just be their real selves amongst encouraging peers. If you're interested in tech and looking for a wholesome space online, [stop by](https://virtualcoffee.io/events/) anytime and say hello!
+
+Last but not least, I'm grateful to be a [Community Manager](https://virtualcoffee.io/members/) at [Virtual Coffee](https://virtualcoffee.io/members/). It's a wonderful space where devs all over the world come together to support each other, give talks, share successes, and just be their real selves amongst encouraging peers. If you're interested in tech and looking for a wholesome space online, [stop by](https://virtualcoffee.io/events/) anytime and say hello!
 
 
 ## Contact
