@@ -3,14 +3,24 @@
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=00AD9F)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
 
-## Hey, I'm Kirk, :wave:
+## Hey, I'm Kirk, :wave: 
 
-I'm a full stack journeyman developer from the Caribbean who got his start with VBA and python, and now loves writing lots and lots of functional code. Primary languages are currently Elm, F#, and SQL with a lot of work in the .NET ecosystem and SQL Server. Also working with Haskell, Typescript and React Native. Writing software is genuinely one of my favourite feelings in the world and I'm searching for a space where I get to do some good.
+I'm a full stack dev from the Caribbean who loves Functional programming and Domain Driven Development.
+
+I got my start doing a lot of data driven work with VBA and Python.
+
+Currently, I'm working with F#, C# and T-SQL (SQL Server) in the .NET ecosystem. 
+
+Also working with Elm, Typescript and React Native on the front-end.
+
+Mostly I'm just trying to do good work and practice kindness in my habits.
 
 ## What I've got going on
 
 ### Current Projects
-- [Quarto](https://github.com/tkshill/Quarto) - A board game built using Elm, Elm-UI and Netlify
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=quarto)](https://github.com/dominicduffin1/virtualcoffee.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=roman-numerals-react)](https://github.com/dominicduffin1/virtualcoffee.io)
 
 ### Latest Blog Posts
 - [A starter guide to open source maintenance](https://gist.github.com/tkshill/598908f1bfc850df9f96c16ab30a5643)
@@ -19,28 +29,16 @@ I'm a full stack journeyman developer from the Caribbean who got his start with 
 
 
 ### Virtual Coffee
-- Last but not least, I'm grateful to be doing a lot of community work as part of the [Virtual Coffee](https://virtualcoffee.io/members/) Leadership Team. It's a wonderful space where devs all over the world come together to support each other, give talks, share successes, and just be their real selves amongst encouraging peers. If you're looking for a wholespace space online, [stop by](https://virtualcoffee.io/events/) anytime and say hello!
+- Last but not least, I'm grateful to be a [Community Manager](https://virtualcoffee.io/members/) at [Virtual Coffee](https://virtualcoffee.io/members/). It's a wonderful space where devs all over the world come together to support each other, give talks, share successes, and just be their real selves amongst encouraging peers. If you're interested in tech and looking for a wholesome space online, [stop by](https://virtualcoffee.io/events/) anytime and say hello!
 
 
 ## Contact
 
-<!-- Actual text -->
+Currently available for remote work, technical writing, and conversations about code.
 
 Feel free to reach out to tkshillinz@icloud.com. I also frequent the Elm and F# slacks where you can find me as @Kirk Shillingford.
 
 You can also find me on [Twitter](https://twitter.com/KirkCodes)
 
-<!-- Icons -->
+Hope this finds you well.
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/KirkCodes
-
-
-Be well.
-
-<a href="https://github.com/tkshill">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkshill&hide=html,css&title_color=ffffff&text_color=C2539B&icon_color=C2539B&bg_color=292828" alt="Kirk's GitHub Language focus" />
-</a>
