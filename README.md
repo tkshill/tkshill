@@ -13,6 +13,8 @@ Currently, I'm working with F#, C# and T-SQL (SQL Server) in the .NET ecosystem.
 
 Also working with Elm, Typescript and React Native on the front-end.
 
+I do technical writing at 
+
 Mostly I'm just trying to do good work and practice kindness in my habits.
 
 ## What I've got going on
@@ -24,11 +26,9 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 
 <h3 id="-latest-blog-posts">📕 Latest Blog Posts (Dev.to)</h4>
 <!-- BLOG-POST-LIST:START -->
-<ul>
-<li>
+
 <!-- BLOG-POST-LIST:END -->
-</li>
-</ul>
+
 
 [A starter guide to open source maintenance](https://gist.github.com/tkshill/598908f1bfc850df9f96c16ab30a5643)
 
