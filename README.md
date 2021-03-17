@@ -26,6 +26,8 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 
 ### 📕 Latest Blog Posts (Dev.to)
 <!-- MEDIUM-STORY-LIST:START -->
+- [7 Tech Talks That Actually Made A Difference](https://dev.to/tkshillinz/7-tech-talks-i-love-and-why-23lj)
+- [Database Security Checklist for Small Teams](https://dev.to/arctype/database-security-checklist-for-small-teams-2mhj)
 <!-- MEDIUM-STORY-LIST:END -->
 
 [A starter guide to open source maintenance](https://gist.github.com/tkshill/598908f1bfc850df9f96c16ab30a5643)
