@@ -24,9 +24,8 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=quarto)](https://github.com/dominicduffin1/virtualcoffee.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=roman-numerals-react)](https://github.com/dominicduffin1/virtualcoffee.io)
 
-<h3 id="-latest-blog-posts">📕 Latest Blog Posts (Dev.to)</h4>
+### 📕 Latest Blog Posts (Dev.to)
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 
