@@ -30,12 +30,6 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 - [Database Security Checklist for Small Teams](https://dev.to/arctype/database-security-checklist-for-small-teams-2mhj)
 <!-- MEDIUM-STORY-LIST:END -->
 
-[A starter guide to open source maintenance](https://gist.github.com/tkshill/598908f1bfc850df9f96c16ab30a5643)
-
-[Solving Problems Using Elm Parser](https://gist.github.com/tkshill/5adf16078ee255d25d92f13adf770ac0)
-
-[Mimicking Delayed Generators in Elm](https://gist.github.com/tkshill/5edf3eb96a1dd80b47849399c7945499)
-
 
 ### Virtual Coffee
 
