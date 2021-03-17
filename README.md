@@ -25,9 +25,8 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=roman-numerals-react)](https://github.com/dominicduffin1/virtualcoffee.io)
 
 ### 📕 Latest Blog Posts (Dev.to)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 [A starter guide to open source maintenance](https://gist.github.com/tkshill/598908f1bfc850df9f96c16ab30a5643)
 
