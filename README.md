@@ -13,23 +13,22 @@ Currently, I'm working with F#, C# and T-SQL (SQL Server) in the .NET ecosystem.
 
 Also working with Elm, Typescript and React Native on the front-end.
 
-I do technical writing at 
+I do technical writing at [Arctype](https://arctype.com/blog/author/kirk/)
 
 Mostly I'm just trying to do good work and practice kindness in my habits.
 
 ## What I've got going on
 
-### Current Projects
+### Projects I'm tinkering with
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=quarto)](https://github.com/dominicduffin1/virtualcoffee.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=roman-numerals-react)](https://github.com/dominicduffin1/virtualcoffee.io)
 
-### 📕 Latest Blog Posts (Dev.to)
+### My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
 - [7 Tech Talks That Actually Made A Difference](https://dev.to/tkshillinz/7-tech-talks-i-love-and-why-23lj)
 - [Database Security Checklist for Small Teams](https://dev.to/arctype/database-security-checklist-for-small-teams-2mhj)
 <!-- MEDIUM-STORY-LIST:END -->
-
 
 ### Virtual Coffee
 
