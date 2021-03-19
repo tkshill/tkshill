@@ -26,7 +26,7 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 
 ### My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
-- [7 Tech Talks That Actually Made A Difference](https://dev.to/tkshillinz/7-tech-talks-i-love-and-why-23lj)
+- [7 Tech Talks That Actually Made A Difference](https://dev.to/kirkcodes/7-tech-talks-i-love-and-why-23lj)
 - [Database Security Checklist for Small Teams](https://dev.to/arctype/database-security-checklist-for-small-teams-2mhj)
 <!-- MEDIUM-STORY-LIST:END -->
 
