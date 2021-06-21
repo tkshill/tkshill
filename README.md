@@ -22,14 +22,27 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 
 ### Recent talks and streams
 
+<table class="table">
+  <tr><td align="center">
+    <img width="441" height="1">
+
 #### Fuzz Testing in Typescript
+
 <a href="https://youtu.be/ILl-ZphQAfc" target="_blank"><img src="https://user-images.githubusercontent.com/13292886/118856878-6a737c00-b8a5-11eb-8ff9-0bba905eac16.png" 
 alt="Property Based Testing with Typescript" width="240" height="180" border="10" /></a>
 
+  </td>
+  <td align="center">
+    <img width="441" height="1">
+    
 #### Giving an Introductory Elm walkthrough
 
 <a href="https://youtu.be/jTmH2zxhsNM" target="_blank"><img src="https://user-images.githubusercontent.com/13292886/118859306-15853500-b8a8-11eb-8976-81d0bd0c84ba.png" 
 alt="Livestream Elm Introduction" width="240" height="180" border="10" /></a>
+    
+  </td>
+ </tr>
+  </table>
 
 ### Projects I'm tinkering with
 
