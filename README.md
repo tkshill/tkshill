@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Tools-Eleventy-informational?style=for-the-badge&logo=Eleventy&logoColor=white&color=4AB197)
 
 
-<h2>Hey, I'm Kirk 🇩🇲 </h2>
+<h2>Hey, I'm Kirk 👋🏾 </h2>
   
 I'm a full stack dev from the Caribbean who loves Functional programming and Domain Driven Development.
 
