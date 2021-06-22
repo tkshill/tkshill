@@ -25,19 +25,19 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 
 <table class="table">
 <tr>
-<td align="center">
+<td>
 <img width="441" height="1">
 
-#### Fuzz Testing in Typescript
+  <h4>Fuzz Testing in Typescript</h4>
 
 <a href="https://youtu.be/ILl-ZphQAfc" target="_blank"><img src="https://user-images.githubusercontent.com/13292886/118856878-6a737c00-b8a5-11eb-8ff9-0bba905eac16.png" 
 alt="Property Based Testing with Typescript" width="240" height="180" border="10" /></a>
 
 </td>
-<td align="center">
+<td>
 <img width="441" height="1">
 
-#### Giving an Introductory Elm walkthrough
+  <h4>Giving an Introductory Elm walkthrough</h4>
 
 <a href="https://youtu.be/jTmH2zxhsNM" target="_blank"><img src="https://user-images.githubusercontent.com/13292886/118859306-15853500-b8a8-11eb-8976-81d0bd0c84ba.png" 
 alt="Livestream Elm Introduction" width="240" height="180" border="10" /></a>
@@ -45,18 +45,19 @@ alt="Livestream Elm Introduction" width="240" height="180" border="10" /></a>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
 <img width="441" height="1">
 
-#### Leveraging Types With TypeScript
+  <h4>Leveraging Types With TypeScript</h4>
 
 <a href="https://www.youtube.com/watch?v=IDLwHFwgNY4&t=3254s" target="_blank"><img src="https://user-images.githubusercontent.com/13292886/122840289-cf1c5f00-d2c7-11eb-9b06-795fe2c4e1f5.png" 
 alt="Intro to Type Driven Development with Typescript" width="240" height="180" border="10" /></a>
 </td>
-<td align="center">
+<td>
 <img width="441" height="1">
 
-#### An Introduction to Elm
+  <h4>An Introduction to Elm</h4>
+  
 <a href="https://youtu.be/1Wr98xR0uvY" target="_blank"><img src="https://user-images.githubusercontent.com/13292886/122840754-c37d6800-d2c8-11eb-8ffa-17117560f536.png" 
 alt="Introduction to Elm brownbag" width="240" height="180" border="10" /></a>
 </td>
