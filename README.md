@@ -66,9 +66,9 @@ alt="Introduction to Elm brownbag" width="240" height="180" border="10" /></a>
 
 ### Projects I'm tinkering with
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=quarto)](https://github.com/dominicduffin1/virtualcoffee.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=quarto)](https://github.com/tkshill/quarto)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=roman-numerals-react)](https://github.com/dominicduffin1/virtualcoffee.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=roman-numerals-react)](https://github.com/tkshill/repo-roman-react)
 
 ### My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
