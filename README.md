@@ -74,11 +74,11 @@ alt="Introduction to Elm brownbag" width="240" height="180" border="10" /></a>
 
 ### My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Semantics, Not Syntax; Developer empowerment using functional-first programming](https://dev.to/kirkcodes/semantics-not-syntax-developer-empowerment-using-functional-first-programming-45oo)
 - [Talking technique: Recognizing context for cleaner design](https://dev.to/kirkcodes/talking-technique-recognizing-context-for-cleaner-design-32o1)
 - [A Most Magic TicTacToe solution with React and TS](https://dev.to/kirkcodes/a-most-magic-tictactoe-solution-with-react-and-ts-4pje)
 - [Reduce in 5 Minutes](https://dev.to/kirkcodes/reduce-in-5-minutes-462i)
 - [Solving the Dominoes problem with Graph Theory and Typescript](https://dev.to/kirkcodes/solving-the-dominoes-problem-with-graph-theory-and-typescript-45f2)
-- [Solving the Dominoes Exercism Problems with Active Patterns in F#](https://dev.to/kirkcodes/solving-the-dominoes-exercism-problems-with-active-patterns-in-f-384d)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### Virtual Coffee
