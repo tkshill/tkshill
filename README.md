@@ -15,8 +15,6 @@ Currently, I'm working with F#, C# and T-SQL (SQL Server) in the .NET ecosystem.
 
 Also working with Elm, Typescript and React Native on the front-end.
 
-I do technical writing at [Arctype](https://arctype.com/blog/author/kirk/)
-
 Mostly I'm just trying to do good work and practice kindness in my habits.
 
 ## What I've got going on
