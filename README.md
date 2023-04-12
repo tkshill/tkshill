@@ -66,7 +66,7 @@ alt="Introduction to Elm brownbag" width="240" height="180" border="10" /></a>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=quarto)](https://github.com/tkshill/Quarto)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=Typescript)](https://github.com/tkshill/Gamepad](https://github.com/tkshill/Typescript/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tkshill&repo=typescript)](https://github.com/tkshill/Gamepad](https://github.com/tkshill/Typescript/)
 
 ### My latest blog posts 
 <!-- MEDIUM-STORY-LIST:START -->
