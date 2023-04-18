@@ -26,6 +26,26 @@ Mostly I'm just trying to do good work and practice kindness in my habits.
 <td>
 <img width="441" height="1">
 
+  <h4>XState and React with Typescript</h4>
+
+<a href="https://www.youtube.com/watch?v=9zSBQH_N3po&t=4298s" target="_blank"><img src="https://github.com/tkshill/tkshill/blob/main/wiki_resources/xstate.png" 
+alt="Xstate, react, and typescript presentation" width="240" height="180" border="10" /></a>
+
+</td>
+<td>
+<img width="441" height="1">
+
+  <h4>TS Tuesday Stream - TS 4.9 Review </h4>
+
+<a href="https://www.youtube.com/watch?v=ya9ERIcY4Wk&t=162s" target="_blank"><img src="https://github.com/tkshill/tkshill/blob/a67a9f0b9c45256bff0683d63e0f185ce6895d37/wiki_resources/tstue.png" 
+alt="Twitch stream talking about the latest features in Typescript 4.9" width="240" height="180" border="10" /></a>
+
+</td>
+</tr>
+<tr>
+<td>
+<img width="441" height="1">
+
   <h4>Fuzz Testing in Typescript</h4>
 
 <a href="https://youtu.be/ILl-ZphQAfc" target="_blank"><img src="https://user-images.githubusercontent.com/13292886/118856878-6a737c00-b8a5-11eb-8ff9-0bba905eac16.png" 
