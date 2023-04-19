@@ -102,6 +102,8 @@ alt="Introduction to Elm brownbag" width="240" height="180" border="10" /></a>
 
 Last but not least, I'm grateful to be a [Community Maintainer](https://virtualcoffee.io/members/) at [Virtual Coffee](https://virtualcoffee.io/members/). It's a wonderful space where devs all over the world come together to support each other, give talks, share successes, and just be their real selves amongst encouraging peers. If you're interested in tech and looking for a wholesome space online, [stop by](https://virtualcoffee.io/events/) anytime and say hello!
 
+I also stream Typescript Tuesdays at https://www.twitch.tv/virtualcoffeeio, a biweekly beginner-friendly space where we tackle Type-Driven development.
+
 
 ## Contact
 
