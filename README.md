@@ -113,7 +113,7 @@ You can find my full resume [here](https://github.com/tkshill/tkshill/blob/main/
 
 Feel free to reach out to tkshillinz@icloud.com. I also frequent the Elm and F# slacks where you can find me as @Kirk Shillingford.
 
-You can also find me on [Twitter](https://twitter.com/KirkCodes) and [LinkedIn](https://www.linkedin.com/in/tkshillingford/)
+You can also find me on [Devto](https://dev.to/kirkcodes), [Twitter](https://twitter.com/KirkCodes) and [LinkedIn](https://www.linkedin.com/in/tkshillingford/)
 
 Hope this finds you well.
 
