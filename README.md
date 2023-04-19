@@ -109,9 +109,11 @@ I also stream Typescript Tuesdays at https://www.twitch.tv/virtualcoffeeio, a bi
 
 Currently available for remote work, technical writing, and conversations about code.
 
+You can find my full resume [here](https://github.com/tkshill/tkshill/blob/main/KirkShillingfordResumeGithub.pdf)
+
 Feel free to reach out to tkshillinz@icloud.com. I also frequent the Elm and F# slacks where you can find me as @Kirk Shillingford.
 
-You can also find me on [Twitter](https://twitter.com/KirkCodes)
+You can also find me on [Twitter](https://twitter.com/KirkCodes) and [LinkedIn](https://www.linkedin.com/in/tkshillingford/)
 
 Hope this finds you well.
 
