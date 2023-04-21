@@ -7,13 +7,7 @@
 
 <h2>Hey, I'm Kirk 👋🏾 </h2>
   
-I'm a full stack dev from the Caribbean who loves Functional programming and Domain Driven Development.
-
-I got my start doing a lot of data driven work with VBA and Python.
-
-Currently, I'm working with F#, C# and T-SQL (SQL Server) in the .NET ecosystem. 
-
-Also working with Elm, Typescript and React Native on the front-end.
+I'm a full stack dev in Canada who loves Functional programming and Domain Driven Development. I've done a lot of Python, Typescript, .NET and work with SQL databases. I also have a mild obsession with the management of state, effects, type systems, and taming complexity. I've you're ever down to talk about Elm F#, Haskell, and Good Systems, we should chat!
 
 Mostly I'm just trying to do good work and practice kindness in my habits.
 
